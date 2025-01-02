@@ -69,4 +69,8 @@ Run tests using Jest:
 npm test
 ```
 
+```
+node test
+```
+
 
